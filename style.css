@@ -1,0 +1,39 @@
+body{
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+margin-top: 50px;
+
+}
+
+h1{
+    font-size: 45px;
+}
+
+button{
+
+    margin: 20px;
+    padding: 20px 20px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.claro{
+background-color: lightskyblue;
+color: white;
+
+}
+
+.escuro{
+    background-color: darkslategray;;
+    color: white;
+}
+
+.fire{
+background-color: darkred;
+color: cornsilk;
+}
+
+.agua{
+    background-color: dodgerblue;
+    color: whitesmoke
+}
